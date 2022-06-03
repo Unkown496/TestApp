@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import App from './Index.vue';
+import App from './Requisite.vue';
 import vuetify from './plugins/vuetify';
 
 Vue.config.productionTip = false
